@@ -10,6 +10,7 @@
 | ![image4](./media/1_scan.gif) | ![image5](./media/1_nerf.gif) | ![image6](./media/1_colmap.gif) |
 |:--:|:---:|:---:|
 | Laser Scan | NeRF | SFM |
+| C2C distance | 2.56 cms | 2.86 cms |
 
 
 
